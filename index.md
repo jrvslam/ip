@@ -1,8 +1,9 @@
-# Welcome to Rawr'z! 
+# Welcome to Ranga! Rawrz! 
 
-Hello! I am Ranga! Your personal tasks manager chatbot! I can keep track of your ToDos, Deadlines, and Events!
+Hello! I am Ranga! Your personal tasks manager chatbot! I can keep track of your ToDos, Deadlines, and Events! Rawrz!
 
-![Image of GUI](https://github.com/jrvslam/ip/blob/master/src/main/resources/images/GUI.PNG)
+![Image of GUI](src/main/resources/images/GUI.PNG)
+
 
 ### Types of Tasks
 
@@ -11,7 +12,6 @@ I can record 3 different types of tasks for you:
 2. Deadline
 3. Event
 
-## Features
 
 ### Bye `bye`
 Quit the application.
@@ -24,11 +24,11 @@ Example: `bye`
 
 Shows available commands and their formats
 
-![Image of Help](https://github.com/jrvslam/ip/blob/master/src/main/resources/images/Help.PNG)
+![Image of Help](src/main/resources/images/Help.PNG)
+
 
 ## Add Tasks
 ### Add ToDo `todo`
-
 Add a todo task.
 
 Format: `todo DESCRIPTION`
@@ -36,7 +36,6 @@ Format: `todo DESCRIPTION`
 Example: `todo Run with Ranga`
 
 ### Add Deadline `deadline`
-
 Add a deadline task.
 
 Format: `deadline DESCRIPTION /by DATE`
@@ -44,15 +43,14 @@ Format: `deadline DESCRIPTION /by DATE`
 Example: `deadline Feed Ranga /by 22 Feb 2021 1800`
 
 ### Add Event `event`
-
 Add a event task.
 
 Format: `event DESCRIPTION /at DATE`
 
 Example: `event Ranga's Birthday /by 23 Feb 2021`
 
-## Modify Tasks
 
+## Modify Tasks
 ### Mark as Done `done`
 
 Marks a task as done.
@@ -77,8 +75,8 @@ Format: `remove TASK_ID`
 
 Example: `remove 1`
 
-## See Tasks
 
+## See Tasks
 ### List tasks `list`
 
 Shows the stored tasks.
