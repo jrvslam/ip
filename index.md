@@ -2,7 +2,7 @@
 
 Hello! I am Ranga! Your personal tasks manager chatbot! I can keep track of your ToDos, Deadlines, and Events! Rawrz!
 
-![Image of GUI](https://jrvslam.github.io/ip/blob/master/src/main/resources/images/GUI.PNG)
+![Image of GUI2](../src/main/resources/images/GUI.PNG)
 
 
 ### Types of Tasks
