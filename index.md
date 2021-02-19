@@ -2,16 +2,14 @@
 
 Hello! I am Ranga! Your personal tasks manager chatbot! I can keep track of your ToDos, Deadlines, and Events! Rawrz!
 
-![Image of GUI](src/main/resources/images/GUI.PNG)
+![Image of GUI](ip/src/main/resources/images/GUI.PNG)
 
 
 ### Types of Tasks
-
 I can record 3 different types of tasks for you:
 1. Todo
 2. Deadline
 3. Event
-
 
 ### Bye `bye`
 Quit the application.
@@ -24,8 +22,7 @@ Example: `bye`
 
 Shows available commands and their formats
 
-![Image of Help](src/main/resources/images/Help.PNG)
-
+![Image of Help](ip/src/main/resources/images/Help.PNG)
 
 ## Add Tasks
 ### Add ToDo `todo`
@@ -48,7 +45,6 @@ Add a event task.
 Format: `event DESCRIPTION /at DATE`
 
 Example: `event Ranga's Birthday /by 23 Feb 2021`
-
 
 ## Modify Tasks
 ### Mark as Done `done`
@@ -74,7 +70,6 @@ Removes a stored task.
 Format: `remove TASK_ID`
 
 Example: `remove 1`
-
 
 ## See Tasks
 ### List tasks `list`
