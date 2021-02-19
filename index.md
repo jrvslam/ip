@@ -3,7 +3,7 @@
 Hello! I am Ranga! Your personal tasks manager chatbot! I can keep track of your ToDos, Deadlines, and Events! Rawrz!
 
 ![Image of GUI](ip/src/main/resources/images/gui.png)
-![1](https://github.com/jrvslam/ip/blob/master/src/main/resources/images/GUI.PNG)
+![1](https://github.com/jrvslam/ip/blob/master/src/main/resources/images/GUI.png)
 ![2](https://github.com/jrvslam/ip/blob/master/src/main/resources/images/gui.png)
 
 
